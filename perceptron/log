@@ -1,0 +1,144 @@
+Dataset 1
+
+Number of errors in iteration 0:        5
+weights:        [-0.621701473780905;0.760915272851413;0.771872048918481]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 1:        3
+weights:        [1.0582985262191;0.548290688133805;0.771872048918481]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 2:        1
+weights:        [2.38115566907624;-0.514832235454235;-0.228127951081519]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 3:        1
+weights:        [2.89544138336195;-0.740745856716693;-0.228127951081519]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 4:        1
+weights:        [3.40972709764767;-0.966659477979152;-0.228127951081519]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 5:        0
+weights:        [3.05258424050481;-1.81715781684958;-1.22812795108152]
+<Press enter to continue, q to quit.>
+w =
+
+   3.0526
+  -1.8172
+  -1.2281
+
+Increasing the learning rate
+
+learn_perceptron(neg_examples_nobias , pos_examples_nobias , w_init , w_gen_feas )
+Number of errors in iteration 0:        5
+weights:        [-0.621701473780905;0.760915272851413;0.771872048918481]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 1:        1
+weights:        [2.7382985262191;0.335666103416197;0.771872048918481]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 2:        1
+weights:        [3.76686995479052;-0.11616113910872;0.771872048918481]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 3:        0
+weights:        [3.05258424050481;-1.81715781684958;-1.22812795108152]
+<Press enter to continue, q to quit.>
+ans =
+
+   3.0526
+  -1.8172
+  -1.2281
+  
+Dataset 2
+
+
+Does not converge
+ 
+Dataset 3
+
+Number of errors in iteration 0:        7
+weights:        [0.903680337198885;-0.490875491718683;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 1:        2
+weights:        [0.472251765770313;-1.42110804985822;-0.0514470517116035]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 2:        4
+weights:        [-0.364891091372544;-1.83306818274858;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 3:        3
+weights:        [-0.41060537708683;-2.32476253490805;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 4:        3
+weights:        [-0.456319662801115;-2.81645688706752;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 5:        2
+weights:        [-0.502033948515401;-3.30815123922699;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 6:        1
+weights:        [0.215108908627456;-3.60715456148613;-0.0514470517116035]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 7:        1
+weights:        [0.140823194341742;-3.82642366447616;-0.0514470517116035]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 8:        1
+weights:        [0.0665374800560273;-4.0456927674662;-0.0514470517116035]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 9:        0
+weights:        [-0.00774823422968696;-4.26496187045623;-0.0514470517116035]
+<Press enter to continue, q to quit.>
+ans =
+
+  -0.0077482
+  -4.2649619
+  -0.0514471
+
+
+Number of errors in iteration 0:        7
+weights:        [0.903680337198885;-0.490875491718683;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 1:        3
+weights:        [-0.890605377086829;-2.43107482726686;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 2:        3
+weights:        [-0.833462519943972;-2.97592532560573;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 3:        2
+weights:        [-0.776319662801115;-3.5207758239446;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 4:        2
+weights:        [-0.719176805658257;-4.06562632228347;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 5:        2
+weights:        [-0.6620339485154;-4.61047682062234;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 6:        2
+weights:        [-0.604891091372543;-5.15532731896121;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 7:        2
+weights:        [-0.547748234229686;-5.70017781730008;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 8:        2
+weights:        [-0.490605377086829;-6.24502831563895;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 9:        2
+weights:        [-0.433462519943972;-6.78987881397782;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 10:       2
+weights:        [-0.376319662801115;-7.3347293123167;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 11:       2
+weights:        [-0.467748234229686;-8.31811801663563;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 12:       2
+weights:        [-0.410605377086829;-8.8629685149745;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 13:       2
+weights:        [-0.5020339485154;-9.84635721929344;0.948552948288397]
+<Press enter to continue, q to quit.>
+Number of errors in iteration 14:       0
+weights:        [1.08082319434174;-10.0058256578316;-1.0514470517116]
+<Press enter to continue, q to quit.>
+ans =
+
+    1.0808
+  -10.0058
+   -1.0514  
+Dataset 4
+
+Does not converge 
